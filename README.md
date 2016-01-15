@@ -129,3 +129,4 @@ Signed,
 - Davi Marcondes Moreira ([@devdrops](https://github.com/devdrops)), Developer
 - Jacob Gadikian ([@faddat](https://github.com/faddat)), Geek
 - Stephane Bruckert ([@stephanebruckert](https://github.com/stephanebruckert)), Full Stack Developer
+- Silas silva ([@silas-ss](https://github.com/silas-ss)), Full Stack Developer at [DATTE](http://www.datte.com.br)
